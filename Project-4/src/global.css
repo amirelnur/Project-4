@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Belleza&display=swap');
+
+* {
+  font-family: 'Belleza';
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  background: darkblue;
+}
+
+.container {
+  width: 100%;
+  height: auto;
+}

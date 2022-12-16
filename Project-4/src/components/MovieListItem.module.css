@@ -1,0 +1,43 @@
+.cardFilm {
+  width: 75%;
+  display: flex;
+  margin: 20px 0;
+  flex-wrap: nowrap;
+  border-radius: 30px;
+  flex-direction: row;
+  background-color: #DCDCDC;
+  padding: 15px 30px 15px 20px;
+  justify-content: space-between;
+}
+
+.poster {
+  width: 60%;
+  padding: 2%;
+  margin-right: 20px;
+  border-radius: 30px;
+  box-sizing: border-box;
+}
+
+.movieInfo {
+    font-size: 22px;
+}
+
+.addBtn {
+  width: 150px;
+  border: none;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 7px 20px;
+  font-style: italic;
+  text-align: center;
+  border-radius: 30px;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, teal 40%, rgba(0, 128, 128, 0) 100%);
+}
+.addBtn:hover {
+  color: black;
+  background: #F0D70F;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #F0D70F 40%, rgba(0, 128, 128, 0) 100%);
+}

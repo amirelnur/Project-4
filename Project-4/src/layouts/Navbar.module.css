@@ -1,0 +1,15 @@
+.navbar {
+    margin: 0;
+    height: auto;
+    overflow: auto;
+    padding: 10px 20px;
+    background: linear-gradient(180deg, #421aa1 0%, rgba(93, 67, 165, 0.802) 55.21%, rgba(18, 27, 107, 0) 100%);
+}
+
+.icon {
+    margin: 6%;
+    color: white;
+    font-size: 70px;
+    font-weight: 400;
+    text-decoration: none;
+}
